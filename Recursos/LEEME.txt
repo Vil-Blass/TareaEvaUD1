@@ -1,0 +1,20 @@
+RECURSOS - TAREA EVALUATIVA AD01
+
+entrada.txt
+  Recurso para el ejercicio 1.
+
+accesos.log
+  Recurso para el ejercicio 2.
+
+ArraysInventario.txt
+  Arrays iniciales para crear inventario.dat en el ejercicio 4.
+
+firmas/
+  Archivos para probar el ejercicio 3:
+  - zip_real_valido.zip: ZIP real.
+  - zip_real_sin_extension.bin: mismo contenido ZIP con otra extension.
+  - extension_zip_falsa.zip: tiene extension .zip, pero no cabecera ZIP.
+  - archivo_texto.txt: fichero de texto normal.
+  - archivo_corto.bin: fichero de menos de 4 bytes.
+
+No se incluyen los resultados esperados: el programa debe obtenerlos.
